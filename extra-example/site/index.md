@@ -3,4 +3,4 @@
 # Welcome
 
 
-Welcome to my website
+Welcome to Zodiac Extra-Example Site. Clone and change as you see fit.
