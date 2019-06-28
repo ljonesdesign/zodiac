@@ -4,7 +4,7 @@
 Even to create a small site with 3-4 pages can get complicated. Setting up a node-based build tool for such a small site is difficult to teach to beginners as there are lots of ways for command line tools to go wrong, so I searched for a simple static site generator written in awk and sh. I found one on github here: [zodiac](https://github.com/nuex/zodiac) The basic usage instructions are a bit cryptic for beginning coders, so I plan to fork this and make it more understandable.
 
 ### Facebook Watchman
-I got tired of manually building this over and over, so I installed [FaceBook Watchman](https://facebook.github.io/watchman/docs/install.html).
+I am growing tired of manually running `zod site www` over and over, so I am planning to install [FaceBook Watchman](https://facebook.github.io/watchman/docs/install.html).
 
 
 ## 2. Theme
