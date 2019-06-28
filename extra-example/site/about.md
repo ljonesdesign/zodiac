@@ -1,3 +1,3 @@
 # About
 
-This minimalistic website is the result of a lot of borrowing. The goal was to not use a framework or media queries. This project will give you a basic understanding of HTML, CSS, Markdown, and awk and bash on the Mac.
+This minimalistic website is the result of a lot of borrowing. The goal was to not use a framework or media queries. This project will give you an introduction to  HTML, CSS, Markdown, and how build tools work without installing node.
